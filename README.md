@@ -60,3 +60,5 @@ want to write about your project.
 
 Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
 developers have helped make the HTML5 Boilerplate what it is today.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/farrukhsubhani/html5bpdreamweaver/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
